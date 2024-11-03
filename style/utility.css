@@ -4,7 +4,7 @@
 .grid-flow-col {
   grid-auto-flow: column;
 }
-.grid-col-2 {
+.grid-flow-col-2 {
   grid-template-columns: 1fr 1fr;
 }
 .gap-16 {
